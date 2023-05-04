@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "515539184944",
+    "firebase_url": "https://track-my-diet-34852.firebaseio.com",
+    "project_id": "track-my-diet-34852",
+    "storage_bucket": "track-my-diet-34852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515539184944:android:63f5b0edb0f2383facecf5",
+        "android_client_info": {
+          "package_name": "edu.nyit.trackmydiet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515539184944-s62h51df6ulit3jd7oiefkmncke6ta88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.nyit.trackmydiet",
+            "certificate_hash": "6bf1ce2a8f9d249605bdd088293dc4925cbbe367"
+          }
+        },
+        {
+          "client_id": "515539184944-i9c524tlpl4nr1j6295rc5rjn9fa51hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNxHCIBYs40uObfTMxB9Mb61h2yxGTNlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515539184944-i9c524tlpl4nr1j6295rc5rjn9fa51hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
